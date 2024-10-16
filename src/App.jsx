@@ -6,7 +6,7 @@ function App() {
       <div className="font-body bg-[#FEF4DE] h-full bg-[url('assets/bg.png')] w-full ">
         <header className="">
           <div className="">
-            <img src="src/assets/brown1.png" alt="" className="w-full " />
+            <img src="./src/assets/brown1.png" alt="" className="w-full " />
             <div className="container flex  w-[77%] h-full   gap-20  mx-auto">
               <div className="mt-20">
                 <h1 className="text-[70px] w-full text-[#663128] font-black">
